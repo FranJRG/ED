@@ -27,7 +27,7 @@ Los elementos a usar:
 
 Programación **modular**:
 
-Este tema los estamos aprendiendo aún pero por si te interesa te dejo un enlace para ir aprendiendo 
+Este tema los estamos aprendiendo aún pero por si te interesa te dejo un enlace para ir observando.
 [programacion]
 
 
