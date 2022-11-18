@@ -30,6 +30,10 @@ Programación **modular**:
 Este tema los estamos aprendiendo aún pero por si te interesa te dejo un enlace para ir observando
 [programacion]
 
+---
+
+Además, si quieres puedes visitar algunos ejercicios y sus soluciones si entras a este enlace [actividades]
+
 
 
 
@@ -55,5 +59,5 @@ Este tema los estamos aprendiendo aún pero por si te interesa te dejo un enlace
 [imagen]:https://s36496.pcdn.co/wp-content/uploads/2019/01/7_Github_portada.jpg
 [presentación]:https://github.com/FranJRG/FranJRG
 [programacion]:https://programacionfacil.org/blog/programacion-modular-con-python/
-
+[actividades]:https://github.com/FranJRG/Programaci-n
 
