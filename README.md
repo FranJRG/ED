@@ -5,6 +5,8 @@ Antes de nada pasate por mi GitHub de [presentación]
 
 ![][imagen]
 
+---
+
 **Ahora si pasemos a a hablar de programación**
 
 Programación con **condicionales**:
@@ -15,6 +17,8 @@ Elementos a usar:
 2. **_elif_**
 3. **_else_**
 
+---
+
 Programación en **bucles**:
 
 Los elementos a usar:
@@ -24,6 +28,8 @@ Los elementos a usar:
 ![][imagenbw] 
 
 ![][imagenbf]
+
+---
 
 Programación **modular**:
 
