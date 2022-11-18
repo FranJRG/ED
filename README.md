@@ -20,6 +20,7 @@ Programación en **bucles**:
 Los elementos a usar:
 -**_While_**
 -**_For_**
+
 ![][imagenbw] 
 
 ![][imagenbf]
