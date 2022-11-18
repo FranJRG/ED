@@ -5,7 +5,7 @@ Antes de nada pasate por mi GitHub de [presentación]
 
 ![][imagen]
 
-##**_Ahora si pasemos a a hablar de programación_**##
+**Ahora si pasemos a a hablar de programación**
 
 Programación con **condicionales**:
 
@@ -16,6 +16,7 @@ Elementos a usar:
 3. **_else_**
 
 Programación en **bucles**:
+
 Los elementos a usar:
 -**_While_**
 -**_For_**
